@@ -1,4 +1,4 @@
-#@handsome-guy-here is my main account
+# handsome-guy-here is my main account
 random unpolished projects!
 
 <!---
